@@ -1,4 +1,4 @@
-Olá, me chamo **Henrique*, sou do Rio de Janeiro/Rj, Brasil. Atualmente estudante de desenvolvimento web na <a href="https://www.betrybe.com/"	alt="Trybe"> Trybe</a> 🚀.
+Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estudante de desenvolvimento web na <a href="https://www.betrybe.com/"	alt="Trybe"> Trybe</a> 🚀.
 
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
@@ -16,6 +16,7 @@ Olá, me chamo **Henrique*, sou do Rio de Janeiro/Rj, Brasil. Atualmente estudan
 - 🤔 Meus hobbies são Ler e Games Online;
 - 💼 Estou mudando de área de atuação e por isso estudando muito!
 - 📫 Envie email para **hzozimo@gmail.com**;
+- 😄 Pronomes: Ele/Dele
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/html5_uTMKXvufNb.png" alt="html5" height="40"/>
