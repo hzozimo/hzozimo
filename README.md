@@ -11,7 +11,7 @@ Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estuda
 
 **Meus interesses pessoais:**
 - 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
-- 🔭 Estou aprendendo MySQL;
+- 🔭 Estou aprendendo MongoDB;
 - 🌱 Estou atualmente aprendendo **Backend**;
 - 🤔 Meus hobbies são Ler e Games Online;
 - 💼 Estou mudando de área de atuação e por isso estudando muito!
@@ -25,6 +25,8 @@ Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estuda
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/nodejs_Y2TSm6B_DN.png" alt="nodejs" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/reactjs_j5WbdQuuJ.png" alt="react" height="40"/>
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/github_CEhhSRJdrr.png" alt="github" height="40"/>
+  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_logo_icon_146416.png" alt="MySQL" height="40"/>
+  <img src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-thumbnail.png" alt="MySQL" height="40"/>
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzozimo&layout=compact&hide=html" alt="hzozimo" /></p>
 
