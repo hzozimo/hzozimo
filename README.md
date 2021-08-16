@@ -14,7 +14,7 @@ Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estuda
 - 🔭 Estou aprendendo MongoDB;
 - 🌱 Estou atualmente cursando **Backend**;
 - 🤔 Meus hobbies são Ler e Games Online;
-- 💼 Sou desenvolvedor Front-End (em busca de colocação) certificado pela <a href="www.betrybe.com.br" target="blank">Trybe</a>
+- 💼 Sou desenvolvedor Front-End (em busca de colocação) certificado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 - 📫 Envie email para **hzozimo@gmail.com**;
 - 😄 Pronomes: Ele/Dele
 <p align="center">
