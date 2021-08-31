@@ -11,7 +11,7 @@ Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estuda
 
 **Meus interesses pessoais:**
 - 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
-- 🔭 Estou aprendendo MongoDB;
+- 🔭 Estou aprendendo NodeJS;
 - 🌱 Estou atualmente cursando **Backend**;
 - 🤔 Meus hobbies são Ler e Games Online;
 - 💼 Sou desenvolvedor Front-End (em busca de colocação) certificado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
