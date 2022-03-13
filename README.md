@@ -11,8 +11,8 @@ Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estuda
 
 **Meus interesses pessoais:**
 - 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
-- 🌱 Estou atualmente cursando **Computer Science**;
-- 🔭 Estou aprendendo Python;
+- 🌱 Estou atualmente trabalhando na **Ford Motor Company** como Desenvolvedor Full Stack;
+- 🔭 Estou aprendendo Custom Extensions para Qlik, vueJS, angular;
 - 🤔 Meus hobbies são Ler e Games Online;
 - 💼 Sou desenvolvedor Front-End/Back-End/Full-Stack certificado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 - 📫 Envie email para **hzozimo@gmail.com**;
@@ -27,6 +27,7 @@ Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estuda
   <img src="https://ik.imagekit.io/joaonasc/GitHub/assets/tech-logos/github_CEhhSRJdrr.png" title="github" alt="github" height="40"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_logo_icon_146416.png" title="MySQL" alt="MySQL" height="40"/>
   <img src="https://e7.pngegg.com/pngimages/768/167/png-clipart-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-thumbnail.png" title="MongoDB" alt="MongoDB" height="40"/>
+ <img src="https://camo.githubusercontent.com/9f7002fa85f5bc686e82076e686b18b1b56835800059e455b9f913a091d9083c/687474703a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63332f507974686f6e2d6c6f676f2d6e6f746578742e7376672f3230303070782d507974686f6e2d6c6f676f2d6e6f746578742e7376672e706e67" title="Python" alt="Python" height="40" />
 </p>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzozimo&layout=compact&hide=html" alt="hzozimo" /></p>
 
