@@ -1,4 +1,4 @@
-Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estudante de desenvolvimento web na <a href="https://www.betrybe.com/"	alt="Trybe"> Trybe</a> 🚀.
+Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Estou atualmente trabalhando na **Ford Motor Company** como Desenvolvedor Full Stack;.
 
 
  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
@@ -11,7 +11,6 @@ Olá, me chamo **Henrique**, sou do Rio de Janeiro/Rj, Brasil. Atualmente estuda
 
 **Meus interesses pessoais:**
 - 👨🏽‍💻 Estou sempre em busca de novos conhecimentos;
-- 🌱 Estou atualmente trabalhando na **Ford Motor Company** como Desenvolvedor Full Stack;
 - 🔭 Estou aprendendo Custom Extensions para Qlik, vueJS, angular;
 - 🤔 Meus hobbies são Ler e Games Online;
 - 💼 Sou desenvolvedor Front-End/Back-End/Full-Stack certificado pela <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
